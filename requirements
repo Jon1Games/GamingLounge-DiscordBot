@@ -1,0 +1,5 @@
+# Python 9.3
+
+#pip install python-dotenv
+
+git+https://github.com/mccoderpy/discord.py-message-components.git@developer
